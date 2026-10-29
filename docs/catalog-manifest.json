@@ -1,0 +1,209 @@
+{
+  "source_filename": "prompts-caixa-secreta-influencer-ai.md",
+  "source_sha256": "dcfef258954fa13a8648a3051c2e7d55f742c7b2e15ef6eeb175e1c98b4997fa",
+  "prompt_count": 39,
+  "collections": {
+    "Rostos Realistas": 20,
+    "Fundo Neutro Base Influencer": 9,
+    "Prompts para Faceswap": 2,
+    "Prompts para Ambientação de Produto + Influencer": 4,
+    "Imagens Macro + Texturas Realistas": 4
+  },
+  "prompts": [
+    {
+      "id": "P001",
+      "title": "Rosto Realista Ruiva",
+      "prompt_sha256": "0e5e1491ead18da49f22294da5d2bd60825d59721e8f9b43839b1bf48535b9cb"
+    },
+    {
+      "id": "P002",
+      "title": "Rosto Realista Negra",
+      "prompt_sha256": "837c9681c61d4f5ac36cb9f468727b82aa5e19f59f2f65faa0d1ab6960029e61"
+    },
+    {
+      "id": "P003",
+      "title": "Rosto Realista Morena",
+      "prompt_sha256": "96f2922f2deb727be1398e312dd69fb399e34ddc4a45ec5ce2b62122a10a6614"
+    },
+    {
+      "id": "P004",
+      "title": "Rosto Realista Morena 2",
+      "prompt_sha256": "b281689b14dcbb5d566bf985499b673e1177362a4305012780289da76924e87b"
+    },
+    {
+      "id": "P005",
+      "title": "Mulher Realista Morena 3 (Gemini/Gratuito)",
+      "prompt_sha256": "0d34fdcdcf95fd65b1c3446644b7f5d749ecce9c1931b3fb7aa71070b25c1fba"
+    },
+    {
+      "id": "P006",
+      "title": "Rosto Realista Loira",
+      "prompt_sha256": "d0bd36cad52b72d07b2b9ac88ced1fa72b7e26adef7c733d1e6e9be1644120d5"
+    },
+    {
+      "id": "P007",
+      "title": "Rosto Realista Loira 2",
+      "prompt_sha256": "677a4eee4b7b8eda614973f83ea8b4a4254c83c56ab8d1e6b5da6617fbd97192"
+    },
+    {
+      "id": "P008",
+      "title": "Mulher Realista Loira 3 (Gemini/Gratuito)",
+      "prompt_sha256": "e56ef16c69e6ff5d499fd9291d532ee320ebdf4959fca23e0547de4398b3ad6a"
+    },
+    {
+      "id": "P009",
+      "title": "Mulher Realista Modelo Plus Size",
+      "prompt_sha256": "5e7f8e77ccdf830f0a2e4d53e4c0363fdd7e92866e214922e4c6b42fa5ee2fb0"
+    },
+    {
+      "id": "P010",
+      "title": "Rosto Realista Mulher Meia Idade",
+      "prompt_sha256": "9e9cffaab25a7e610eda09585a7c8be13c27e43679a383dfa10e1e90107a05a2"
+    },
+    {
+      "id": "P011",
+      "title": "Rosto Realista Mulher Idosa",
+      "prompt_sha256": "a84d658a2e1a1401f950758168376169abeb1083ebc671a25c02a35230ef42e4"
+    },
+    {
+      "id": "P012",
+      "title": "Prompt para Recriar Imagem com aspecto Cinematográfico",
+      "prompt_sha256": "06b25afcdce4225194cbdf7a6031df1c61ab88bd8a350af73a414174f6843310"
+    },
+    {
+      "id": "P013",
+      "title": "Rosto Realista Homem Loiro",
+      "prompt_sha256": "d4b8541d4cfb888a56e504c858f5fe4d50988c4c6945d85d058162e7ff1f4f3b"
+    },
+    {
+      "id": "P014",
+      "title": "Rosto Realista Homem Branco",
+      "prompt_sha256": "516ba7da5f8386df81cff1b1a54f835116425deb69eb30a89a40e259c00911cf"
+    },
+    {
+      "id": "P015",
+      "title": "Rosto Realista Homem Ruivo",
+      "prompt_sha256": "931ffcb2be9d05b5819ba49cd9893d221a4dac293e18f62b78ec6adb24f48786"
+    },
+    {
+      "id": "P016",
+      "title": "Rosto Realista Homem Tatuado",
+      "prompt_sha256": "4a1b93a7d6e44592942e7c16eeb108ea6009c3a7ca20e7258572ddde18a85396"
+    },
+    {
+      "id": "P017",
+      "title": "Rosto Realista Homem Negro",
+      "prompt_sha256": "c448cb652c51d263e89e5feed638c3a0bb1a64acf37f82f690debd6642a4ee3a"
+    },
+    {
+      "id": "P018",
+      "title": "Rosto Realista Homem Meia Idade",
+      "prompt_sha256": "f74bc3439ecbed61396d14651f634a95d3b192b9d7874672d21db0fc1442ac12"
+    },
+    {
+      "id": "P019",
+      "title": "Rosto Realista Homem Idoso",
+      "prompt_sha256": "f373941ff53d4810a71b5ffb4a3cafb0c99ca14a4174edc38bd9999e1cba65f5"
+    },
+    {
+      "id": "P020",
+      "title": "Homem Modelo Plus Size",
+      "prompt_sha256": "5e7f8e77ccdf830f0a2e4d53e4c0363fdd7e92866e214922e4c6b42fa5ee2fb0"
+    },
+    {
+      "id": "P021",
+      "title": "Fundo Neutro de Frente",
+      "prompt_sha256": "24dc434d6eb873e901c43a5465b319c7487b69a31e8d67620214952892f088ec"
+    },
+    {
+      "id": "P022",
+      "title": "Fundo Neutro lado Direito",
+      "prompt_sha256": "c8dd5376ecb54c7ae265a9abd13726593ec1edae91caa3a0d69222bff9fddf9b"
+    },
+    {
+      "id": "P023",
+      "title": "Fundo Neutro lado Esquerdo",
+      "prompt_sha256": "17681d6ba78dba100fea5fc23c52ae30d306a2484fe93a0873cedabc1780372c"
+    },
+    {
+      "id": "P024",
+      "title": "Fundo Neutro de Costas",
+      "prompt_sha256": "c74c6bb5d79a41afe831dd143ab89c5ee4bec2054123c3f92a88fa8c6da3df7e"
+    },
+    {
+      "id": "P025",
+      "title": "Fundo Neutro de Frente Seedream 4.5",
+      "prompt_sha256": "d4511fcf924a517aface38b1e44217792f2fd565b7338f34a76d4d1b85f9b306"
+    },
+    {
+      "id": "P026",
+      "title": "Fundo Neutro lado Direito Seedream 4.5",
+      "prompt_sha256": "a581bafa528e45e6dea7654ab5228de5114234163a62b9d3bbd4fd007833b2e2"
+    },
+    {
+      "id": "P027",
+      "title": "Fundo Neutro lado Esquerdo Seedream 4.5",
+      "prompt_sha256": "a827e29666e0fffae522220c56a97708d2466ddaa61bfb91cc9240d9cc572a6c"
+    },
+    {
+      "id": "P028",
+      "title": "Fundo Neutro de Costas Seedream 4.5",
+      "prompt_sha256": "7fe975ebbd2b605bce7c9c0681bfbcd6cf0414b40b90030d9061d4b2ff1b2704"
+    },
+    {
+      "id": "P029",
+      "title": "Fundo Neutro Rosto mais perto Seedream 4.5",
+      "prompt_sha256": "dc5ebd9ccec80e04e63651b6bc3e8703362547e1b117b59be834ebad2d0c1efc"
+    },
+    {
+      "id": "P030",
+      "title": "Prompt Faceswap no Fal.AI",
+      "prompt_sha256": "94b99197b1910dd1d9ec4c243a218af663c13f650ca3966f8ae5597a96ad0e1f"
+    },
+    {
+      "id": "P031",
+      "title": "Faceswap com Seedream 4.5",
+      "prompt_sha256": "bb6f01f0db83cfd61269781d15a084a41ebd3f59042c7062b0d5104a1cc6f46b"
+    },
+    {
+      "id": "P032",
+      "title": "Passo 1 (ambientação): Prompt + Imagem de Referência",
+      "prompt_sha256": "094904567fe249ffc0514c4f4fe8ea2209204117d5d0c05668e69ab62235f565"
+    },
+    {
+      "id": "P033",
+      "title": "Passo 2 (ambientação): Prompt + Imagens 360º da sua Influencer",
+      "prompt_sha256": "ca243026aab5bc1dd9da80175336f8b61e986be9fd713e9683ec5dc40747e7dd"
+    },
+    {
+      "id": "P034",
+      "title": "Passo 3: Prompt para extrair detalhes do produto",
+      "prompt_sha256": "094904567fe249ffc0514c4f4fe8ea2209204117d5d0c05668e69ab62235f565"
+    },
+    {
+      "id": "P035",
+      "title": "Passo 4: Prompt para Gerar Imagem do Produto + Influencer",
+      "prompt_sha256": "34597d19afdd946bf8599da30ecbbe12a5bae45dc50c0317c48307823cf625c8"
+    },
+    {
+      "id": "P036",
+      "title": "Olho Realista",
+      "prompt_sha256": "06c21f4b97ac9c861f5fba9115301412d331ff2e6ab16f025d90ca26235236a2"
+    },
+    {
+      "id": "P037",
+      "title": "Nariz Realista",
+      "prompt_sha256": "09382a79a1afa763e528cb274e03db60fd85316aa8e33c199c195d1901d933bf"
+    },
+    {
+      "id": "P038",
+      "title": "Boca Realista",
+      "prompt_sha256": "4385b81c94525a3f5a2ffacbf9b98852f949e6636c336d88223919a325d4c66f"
+    },
+    {
+      "id": "P039",
+      "title": "Rosto + Texturas Realistas",
+      "prompt_sha256": "9d1365eff32c26b996c2816717d0a6ed8bbfdbcb1a5d7b7c7eeddd7559a0afe1"
+    }
+  ]
+}

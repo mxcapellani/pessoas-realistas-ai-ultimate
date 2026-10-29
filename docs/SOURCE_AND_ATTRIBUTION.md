@@ -1,0 +1,3 @@
+# Origem e direitos
+Os 39 prompts e metadados provêm do Markdown fornecido pelo usuário, “Caixa Secreta de Prompts [Influencer A.I]”, extraído em 28/10/2026 da página Notion indicada na fonte. Não há alegação de autoria desses textos por mxcapellani ou de endosso da coleção.
+MIT cobre código, instruções e documentação originais do pacote; não relicencia os prompts ou imagens de terceiros. Preservam-se direitos dos titulares. Arquivo de origem distribuído com linhas de imagens assinadas substituídas, sem alterar qualquer bloco de prompt. Imagens binárias e URLs de acesso temporário não distribuídas.
